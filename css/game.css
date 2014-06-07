@@ -1,0 +1,11 @@
+
+/**
+ * Here comes specific style for a certain test program.
+ */
+ 
+ canvas{border:1px solid #999;}
+ 
+ div#toplist{float:left; width:48%;}
+ div#instructions{float:right; width:48%;}
+ div#main{position:relative}
+ div#submitscore{position: absolute; z-index: 2; top: 300px; left: 340px;}
